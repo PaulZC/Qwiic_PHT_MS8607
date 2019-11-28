@@ -2,6 +2,8 @@
 
 The TE MS8607 combined pressure, humidity and temperature sensor in Qwiic format.
 
+![PCB](https://github.com/PaulZC/Qwiic_PHT_MS8607/blob/master/img/PCB.JPG)
+
 ![Top](https://github.com/PaulZC/Qwiic_PHT_MS8607/blob/master/img/Top.png)
 ![Bottom](https://github.com/PaulZC/Qwiic_PHT_MS8607/blob/master/img/Bottom.png)
 
